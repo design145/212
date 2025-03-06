@@ -239,6 +239,32 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+
+
+
+
+
+
+
+
+
+
+
+fun(){
+    print("this is the practice code");
+}
+
+
+
+
+
+
+
+
+
+
+
+
     // Function to extract numerical values from the received BLE data string
     private fun extractValue(data: String, prefix: String): String {
         val regex = Regex("$prefix:\\s*(-?\\d*\\.?\\d+)") // Match "Imp: 10.5", "V: 3.3", "I: 0.02"
