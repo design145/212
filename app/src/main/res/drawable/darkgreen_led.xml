@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">  <!-- Changed from oval to rectangle -->
+
+    <solid android:color="#1ED01E"/> <!-- Dark Green -->
+
+    <size android:width="120dp" android:height="120dp"/> <!-- Square shape -->
+
+    <corners android:radius="4dp"/> <!-- Optional: Slightly rounded edges -->
+</shape>

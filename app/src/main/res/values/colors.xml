@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#075D0A</color>
+    <color name="grey">#6B6565</color>
+    <color name="colorConnected">#4CAF50</color>
+    <color name="colorDisconnected">#F44336</color>
+    <color name="colorConnecting">#FFEB3B</color>
+</resources>
